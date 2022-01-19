@@ -17,7 +17,7 @@ The 4-2-1 loop that is observed happens for all known tested numbers for the con
 ## Running this Application
 
 - Clone the repository to your local machine (or download the ZIP)
-- Create a virutual environment; Optionally: Install the dependencies in the `requirements.txt` file to use the .ipynb notebook
+- Create a virutual environment; Optionally: Install the dependencies in the `requirements.yml` file to use the .ipynb notebook
 - Run the Python script: `python3 collatz.py`
 - Enter a number and hit `enter` to see the results
 
